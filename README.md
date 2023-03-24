@@ -1,5 +1,6 @@
 # OpenAI-Keyword-Extractor-
 A keyword extractor web application built with React, Vite, OpenAI API, useState and Chakra UI. This application allows you to extract the most relevant keywords from a given text.
+![keyword_extractor](https://user-images.githubusercontent.com/117073615/227584818-e817f0f5-2b50-45ba-a864-35d9d8293125.png)
 
 # Features
 - Extracts the most relevant keywords from a given text
